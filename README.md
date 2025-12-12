@@ -1,6 +1,6 @@
 # Digital Concept: Binary and Number Systems
 
-**Author:** [YOUR NAME]
+**Author:** [James Perez]
 
 ## Summary
 This tutorial explores the fundamental concepts of digital number systems, specifically focusing on Binary (Base-2), Decimal (Base-10), and Hexadecimal (Base-16). It provides a theoretical overview of how computers represent data and practical step-by-step guides for converting between these systems.
@@ -19,5 +19,6 @@ Please navigate through the sections below:
    * Step-by-step tutorial on converting Binary to Decimal.
    * Step-by-step tutorial on converting Decimal to Binary.
 
----
-*Project created for Digital Concept Tutorial Final.*
+3. **[Real-World Applications](applications.md)**
+   * **New:** The Hexadecimal shortcut (reading binary fast).
+   * **New:** How computers store text (ASCII codes).

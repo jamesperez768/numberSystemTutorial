@@ -1,6 +1,6 @@
 # Binary Conversion Guides
 
-[< Back to Basics](basics.md) | [Return Home](README.md)
+[< Back to Basics](basics.md) | [Next: Real World Apps >](applications.md)
 
 This section provides step-by-step instructions for converting numbers between human-readable formats and machine formats.
 
@@ -49,4 +49,4 @@ To convert decimal to binary, we use the **subtraction method**. We try to subtr
 **Result:** `11001`
 
 ---
-[Return to Home](README.md)
+[Go to Real World Applications >](applications.md)
